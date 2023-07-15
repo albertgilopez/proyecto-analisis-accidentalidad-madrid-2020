@@ -1,4 +1,4 @@
-# PROYECTO: Análisis Accidentalidad Madrid 2020
+# Análisis Accidentalidad Madrid 2020
 ### AUTOR: Albert Gil López (https://www.linkedin.com/in/albertgilopez/)
 
 Este proyecto se centra en el análisis de los accidentes de tráfico que ocurrieron en Madrid durante el año 2020. 
