@@ -11,4 +11,4 @@ También se realizan algunas transformaciones en los datos, como la creación de
 Una vez que los datos están limpios y en el formato correcto, se realizan una serie de visualizaciones para explorar los datos y extraer insights. 
 Esto incluye un gráfico de barras del número de accidentes por distrito, un gráfico de líneas del número de accidentes a lo largo del tiempo, un gráfico de pastel de la proporción de tipos de accidentes, y un gráfico de caja de la distribución de la lesividad en diferentes categorías de accidentes.
 
-Los gráficos proporcionan una visión clara y comprensible de los datos, permitiendo identificar patrones y tendencias, y ofreciendo insights valiosos sobre la accidentalidad en Madrid durante el año 2020."""
+Los gráficos proporcionan una visión clara y comprensible de los datos, permitiendo identificar patrones y tendencias, y ofreciendo insights valiosos sobre la accidentalidad en Madrid durante el año 2020.
