@@ -84,7 +84,7 @@ df = df.astype(tipos)
 
 # Otra solución: df.loc[;,"distrito":"sexo"] = df.loc[;,"distrito":"sexo"].astype("category")
 
-# Ahora vamos a gestiona los nulos.
+# Ahora vamos a gestionar los nulos.
 
 # Analizando la naturaleza y el conteo de cada variable podríamos llegar las siguientes conclusiones:
 
@@ -213,7 +213,3 @@ box_plot.set_yticklabels(box_plot.get_yticklabels(), rotation=45)
 plt.yticks(fontsize=12)
 plt.tight_layout()
 plt.show()
-
-
-
-
