@@ -14,4 +14,4 @@ Esto incluye un gráfico de barras del número de accidentes por distrito, un gr
 Los gráficos proporcionan una visión clara y comprensible de los datos, permitiendo identificar patrones y tendencias, y ofreciendo insights valiosos sobre la accidentalidad en Madrid durante el año 2020.
 
 # Gráfico de barras del número de accidentes por distrito:
-(images/Accidentalidad%20Madrid%202020%20-%20Accidentes%20por%20Distrito.png)
+(images/Accidentalidad Madrid 2020 - Accidentes por Distrito.png)
