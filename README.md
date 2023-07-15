@@ -1,6 +1,6 @@
 # PROYECTO: Análisis Accidentalidad Madrid 2020
 ### AUTOR: Albert Gil López
-LINKEDIN: https://www.linkedin.com/in/albertgilopez/
+### LINKEDIN: https://www.linkedin.com/in/albertgilopez/
 
 DESCRIPCIÓN: 
 
