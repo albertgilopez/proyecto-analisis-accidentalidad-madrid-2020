@@ -1,5 +1,5 @@
 # PROYECTO: Análisis Accidentalidad Madrid 2020
-### AUTOR: Albert Gil López (https://www.linkedin.com/in/albertgilopez/)
+## AUTOR: Albert Gil López (https://www.linkedin.com/in/albertgilopez/)
 
 Este proyecto se centra en el análisis de los accidentes de tráfico que ocurrieron en Madrid durante el año 2020. 
 El conjunto de datos inicial contiene información detallada sobre cada accidente, incluyendo la fecha y hora, la ubicación, el tipo de accidente, las condiciones meteorológicas, el tipo de vehículo y de persona involucrada, la edad y el sexo de las personas involucradas, y la gravedad de las lesiones.
@@ -13,5 +13,5 @@ Esto incluye un gráfico de barras del número de accidentes por distrito, un gr
 
 Los gráficos proporcionan una visión clara y comprensible de los datos, permitiendo identificar patrones y tendencias, y ofreciendo insights valiosos sobre la accidentalidad en Madrid durante el año 2020.
 
-# Gráfico de barras del número de accidentes por distrito:
+### Gráfico de barras del número de accidentes por distrito:
 ![Gráfico de barras del número de accidentes por distrito](images/distrito.png)
